@@ -15,3 +15,4 @@ int main()
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+link-https://www.hackerrank.com/challenges/hello-world-c/submissions/code/292506740
